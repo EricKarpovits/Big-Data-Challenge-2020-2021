@@ -1,0 +1,53 @@
+// Share of student absent as a percentage from school, by state and by number of days missed, 2015
+
+"State", "Full attendance %", "Absence for 3 or more days %", "Absence for 10 or more days%"
+Alabama, 39.7, 21.2, 1.2
+Alaska, 13.5, 49.6, 0.0
+Arizona, 37.4, 23.4, 2.0
+Arkansas, 37.0, 22.6, 1.2
+California, 51.1, 16.3, 1.7
+Colorado, 36.2, 25.1, 2.0
+Connecticut, 45.8, 17.8, 1.7
+Delaware, 43.3, 19.9, 2.1
+Florida, 37.2, 23.3, 2.2
+Georgia, 45.2, 17.5, 1.1
+Hawaii, 46.5, 21.0, 2.8
+Idaho, 42.1, 19.6, 1.4
+Illinois, 48.3, 16.2, 1.3
+Indiana, 48.3, 16.3, 1.5
+Iowa, 43.5, 17.5, 1.6
+Kansas, 41.9, 20.2, 1.6
+Kentucky, 41.0, 18.5, 1.3
+Louisiana, 32.2, 26.3, 4.2
+Maine, 42.7, 19.9, 2.1
+Maryland, 40.5, 19.8, 1.7
+Massachusetts, 51.0, 14.7, 1.1 
+Michigan, 40.5, 19.5, 2.6
+Minnesota, 43.3, 19.9, 2.1
+Mississippi, 42.6, 21.2, 1.5
+Missouri, 45.0, 17.6, 1.2
+Montana, 33.3, 27.5, 3.3
+Nebraska, 42.6, 18.9, 1.0
+Nevada, 44.4, 20.0, 1.7
+New Hampshire, 43.3, 18.4, 1.3
+New Jersey, 39.2, 21.1, 1.3
+New Mexico, 33.2, 27.7, 2.8
+New York, 43.7, 22.1, 2.3
+North Carolina, 39.2, 23.7, 2.2
+North Dakota, 47.2, 15.3, 1.2
+Ohio, 45.9, 18.4, 1.8
+Oklahoma, 37.2, 22.6, 1.4
+Oregon, 41, 22.9, 2.6
+Pennsylvania, 42.2, 19.3, 2.2
+Rhode Island, 43.8, 20.3, 2.6
+South Carolina, 38.9, 21.6, 1.7
+South Dakota, 41.7, 20.2, 1.3
+Tennessee, 44.0, 19.3, 1.4
+Texas, 42.0, 16.2, 1.1
+Utah, 31.7, 63.5, 4.6
+Vermont, 41.8, 19.9, 1.5
+Virginia, 48.4, 17.5, 1.2
+Washington, 46.6, 11.2, 0.9
+West Virginia, 37.7, 21.7, 1.7
+Wisconsin, 42.5, 20.2, 1.8
+Wyoming, 34.2, 28.1, 3.5
