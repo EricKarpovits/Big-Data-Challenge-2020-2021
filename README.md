@@ -10,7 +10,7 @@ ideas for better education for all regardless of socioeconomic, cultural, and ge
 
 **Our Topic of Research:** Education Funding Systems 
 
-To visit our published PDF abstract visit https://journal.stemfellowship.org/doi/pdf/10.17975/sfj-2020-012
+To view our published abstract visit https://journal.stemfellowship.org/doi/pdf/10.17975/sfj-2020-012
 
 To learn more, look at our study, view the results of our data, and read our final scientific report all featured in this git repository. 
 
