@@ -1,7 +1,8 @@
 # Big-Data-Challenge-2020-2021
 
-**Big Data Hackathon Competition and Challenge:**
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+**Big Data Hackathon Competition and Challenge:**
 
 **Problem Statement:** This year’s National Big Data Challenge encourages high school students across the country to apply their computational thinking 
 efforts on UNESCO Sustainable Development Goal 4 (SDG 4) “Equity in Education”. One may use federal, provincial, municipal, and NGO Open data to seek 
