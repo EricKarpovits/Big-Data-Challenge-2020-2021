@@ -8,7 +8,7 @@
 efforts on UNESCO Sustainable Development Goal 4 (SDG 4) “Equity in Education”. One may use federal, provincial, municipal, and NGO Open data to seek 
 ideas for better education for all regardless of socioeconomic, cultural, and geographic background, or even pandemic-related hardships.
 
-**Our Group:** Deniz Jasarbasic (@Deniz-Jasa on GitHub), Eric Karpovits (@EricKarpovits on GitHub), Ana Balteanu, and Aidan Bergin.
+**Our Group:** [Deniz Jasarbasic](https://github.com/Deniz-Jasa) ([@Deniz-Jasa](https://github.com/Deniz-Jasa) on GitHub), [Eric Karpovits](https://github.com/EricKarpovits) ([@EricKarpovits](https://github.com/EricKarpovits) on GitHub), Ana Balteanu, and Aidan Bergin.
 
 **Our Topic of Research:** Education Funding Systems 
 
